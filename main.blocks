@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="=;+oln}DS14N=S${14ge" x="0" y="0"/><block type="device_button_event" id="kH86]XwzT/lpfzrVf+T^" x="298" y="4"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="?2uX:Ln=E8[1z?BtglrQ"><value name="TIMES"><shadow type="math_whole_number" id="NfxiY__dKy@{_hh#Y,QX"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="SgVi(W58T]5PU[hvkLyc"><field name="i">IconNames.TShirt</field><next><block type="device_show_leds" id="3dMW]TB2NZ-C`XE?^a2k"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></statement></block></statement></block><block type="device_forever" id="AX2@M~f*DJ*iz~{773b-" x="602" y="-2"/><block type="device_button_event" id="c:aS4z155`_,7!V^mHV0" x="2" y="174"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id=".YSyOT=56/%ZO[@E%ytr"><value name="text"><shadow type="text" id="uSgwyb@=xF|v_-MEvbwD"><field name="TEXT">Great Job</field></shadow></value></block></statement></block></xml>
